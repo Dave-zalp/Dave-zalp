@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Software developer and a cybersecurity researcher/ Bug bounty hunter<br>👯 I’m looking to collaborate on backend development/Cybersecurity projects<br>🤝 PHP/LARAVEL, PYTHON, JAVASCRIPT, C++, MYSQL<br>🌱 I’m currently learning Electronics<br>
+🔭 I’m a Software developer and a cybersecurity researcher/ Bug bounty hunter<br>👯 I’m looking to collaborate on backend development/Cybersecurity projects<br>🤝 PHP/LARAVEL, PYTHON, JAVASCRIPT, C++, MYSQL, INFORMATION SECURITY, WEB PENETRATION TESTING<br>🌱 I’m currently learning Electronics<br>
 
 
 ## 🌐 Socials:
