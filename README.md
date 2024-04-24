@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hi, I am David <br>👯 Interested in backend development and Cybersecurity<br>🤝 Code in PHP/LARAVEL AND PYTHON <br>🌱 Cybersecurity researcher and CTF Player<br>
+🔭 Hi, I am David <br>👯 Interested in backend development and Cybersecurity<br>🤝 Favourite Language :  PHP/LARAVEL AND PYTHON <br>🌱 Cybersecurity researcher and CTF Player<br>
 
 
 ## 🌐 Socials:
